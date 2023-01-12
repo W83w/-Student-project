@@ -1,0 +1,8 @@
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache

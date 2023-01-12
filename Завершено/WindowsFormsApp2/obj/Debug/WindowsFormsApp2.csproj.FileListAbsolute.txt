@@ -1,0 +1,1224 @@
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Andre\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\source\repos\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Новая папка\Курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.3test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.31test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Новая папка\Курсач0.6\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.2 Testo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.22 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.23\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1.23\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.23\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\User\Рабочий стол\Версии курсача\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач1.25\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.1 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Andre\Desktop\ \Курсач\Курсовой проект\Курсач2.2 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ \Курсач\Курсовой проект\Курсач2.3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ \Курсач\Курсовой проект\Курсач2.4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсач\Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.4 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.6 beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Курсач2.7 beta — копия\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.822 beta — копия — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.About.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.831 beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Новая папка\Курсач2.8425 Beta — копия (2) — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\Interop.MSDAOSP.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Новая папка\Курсач2.8426 Beta\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\Interop.MSDAOSP.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.8427 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.ACTIVEXLib.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.LCC11.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.MSDAOSP.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.MsoEuro.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.ONAddInForWord.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\Interop.XDocsDesigner.dll
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.8428 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.8429\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.917000000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.917000000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\Курсач2.917000000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\Курсач2.917000000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+Z:\Курсач2.91800\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.91800\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\Курсач2.91800\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\Курсач2.91800\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+Z:\Курсач2.91850\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.91850\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\Курсач2.91850\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\Курсач2.91850\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91900\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91900 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91923 test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.91923 test — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SettingForm.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SettingForm.resources
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.92000 — test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SettingForm.resources
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\тест\Курсач2.93000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\тест\Курсач2.93000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\тест\Курсач2.93000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\тест\Курсач2.93000\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\тест\Курсач2.93000\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\тест\Курсач2.93000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.93010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.93010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.93020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Папка\С исправлением\Курсач2.93020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Папка\С исправлением\Курсач2.93020 — копия1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94020 —\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94040\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94040 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94050\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94050 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.94060\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95010\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95010 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95020\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95020 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95100 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач2.95101 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300000\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300100\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300110 — копия (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300140 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300145 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300146 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300150 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач300151 — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ \Курсовой проект\Курсач3001600\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\Мусор\Диплом\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Мусор\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+E:\Мусор\Диплом2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Мусор\Диплом2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
